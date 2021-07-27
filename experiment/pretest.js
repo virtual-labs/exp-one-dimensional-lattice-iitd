@@ -90,22 +90,59 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. Equation of dispersion relation of spring mass system", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "<img src='images/q1a.png' style='height: 43px' draggable='false'>", ///// Write the option 1 inside double quotes
+                b: "<img src='images/q1b.png' style='height: 43px' draggable='false'>", ///// Write the option 2 inside double quotes
+                c: "<img src='images/q1c.png' style='height: 43px' draggable='false'>", ///// Write the option 1 inside double quotes
+                d: "<img src='images/q1d.png' style='height: 43px' draggable='false'>", ///// Write the option 2 inside double quotes
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+        {
+            question: "2. As per Bloch's theorem, we can say", ///// Write the question inside double quotes
+            answers: {
+                a: "<img src='images/q2a.png' style='height: 43px' draggable='false'>", ///// Write the option 1 inside double quotes
+                b: "<img src='images/q2b.png' style='height: 43px' draggable='false'>", ///// Write the option 2 inside double quotes
+                c: "<img src='images/q2c.png' style='height: 43px' draggable='false'>", ///// Write the option 1 inside double quotes
+                d: "<img src='images/q2d.png' style='height: 43px' draggable='false'>", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
+
+        // {
+        //     question: "3. The deflection of plate w is function of which component?", ///// Write the question inside double quotes
+        //     answers: {
+        //         a: "r and t", ///// Write the option 1 inside double quotes
+        //         b: "r and u", ///// Write the option 2 inside double quotes
+        //         c: "r and x", ///// Write the option 1 inside double quotes
+        //         d: "r and &#952;", ///// Write the option 2 inside double quotes
+        //     },
+        //     correctAnswer: "d" ///// Write the correct option inside double quotes
+        // },
+
+        // {
+        //     question: "4. For Clamped, fixed, or built-in edge boundary condition the deflection and slope (normal to the boundary)", ///// Write the question inside double quotes
+        //     answers: {
+        //         a: "must be one", ///// Write the option 1 inside double quotes
+        //         b: "must be zero", ///// Write the option 2 inside double quotes
+        //         c: "must be two", ///// Write the option 1 inside double quotes
+        //         d: "must be five", ///// Write the option 2 inside double quotes
+        //     },
+        //     correctAnswer: "b" ///// Write the correct option inside double quotes
+        // },
+
+        // {
+        //     question: "5. For free edge boundary condition bending moment resultant and the effective shear force resultant on the edge?", ///// Write the question inside double quotes
+        //     answers: {
+        //         a: "must be one", ///// Write the option 1 inside double quotes
+        //         b: "must be five", ///// Write the option 2 inside double quotes
+        //         c: "must be two", ///// Write the option 1 inside double quotes
+        //         d: "must be zero", ///// Write the option 2 inside double quotes
+        //     },
+        //     correctAnswer: "d" ///// Write the correct option inside double quotes
+        // },
 
 
 
