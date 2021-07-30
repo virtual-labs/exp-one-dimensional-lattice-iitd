@@ -83,9 +83,10 @@ Fig(1.6): Response of 20<sup>th</sup> mass
 
 <center><img src="images/th14.png" style="height:340px;" draggable="false"></center>
 
- Fig(1.7): Response of 30<sup>th</sup> mass 
- From all these plots we can clearly see that once the value of &#951; becomes greater than 2 attenuation in response of all these mass is observed.
- We can also observe that attenuation increases as value of &#951; increase. Also the distant masses observe more attenuation as compared to mass which is closer to the node where external harmonic force is applied.
+Fig(1.7): Response of 30<sup>th</sup> mass
+ 
+From all these plots we can clearly see that once the value of &#951; becomes greater than 2 attenuation in response of all these mass is observed.
+We can also observe that attenuation increases as value of &#951; increase. Also the distant masses observe more attenuation as compared to mass which is closer to the node where external harmonic force is applied.
 
 <!-- <img src="images/th5.png" draggable="false">
 
