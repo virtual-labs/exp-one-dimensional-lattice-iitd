@@ -56,15 +56,15 @@ keeping a fixed and observe the variation in &#956;. We observe that the value o
 an imaginary part. When we try to plot the real and imaginary part separately, we get the
 following curves
 
-<img src="images/th9.png" style="height:180px;" draggable="false">
+<center><img src="images/th9.png" style="height:180px;" draggable="false"></center>
 
 Fig (1.2): Variation of real part of &#956;, keeping a=1
 
-<img src="images/th10.png" style="height:180px;" draggable="false">
+<center><img src="images/th10.png" style="height:180px;" draggable="false"></center>
 
 Fig (1.3): Variation of real part of &#956; keeping a=2
 
-<img src="images/th11.png" style="height:180px;" draggable="false">
+<center><img src="images/th11.png" style="height:180px;" draggable="false"></center>
 
 Fig (1.4): Variation of imaginary part of &#956; keeping a=1 
 
@@ -73,15 +73,15 @@ By this we can conclude that if &#951; is greater than 2, the wave will be atten
 frequency greater than 2&#969;n will be attenuated. To confirm the above observation, we apply a harmonic force at first node of the lattice and plot
 the displacement of 10<sup>th</sup> , 20<sup>th</sup> and 30<sup>th</sup> mass.
 
-<img src="images/th12.png" style="height:340px;" draggable="false">
+<center><img src="images/th12.png" style="height:340px;" draggable="false"></center>
 
 Fig(1.5): Response of 10<sup>th</sup> mass
 
-<img src="images/th13.png" style="height:340px;" draggable="false">
+<center><img src="images/th13.png" style="height:340px;" draggable="false"></center>
 
 Fig(1.6): Response of 20<sup>th</sup> mass
 
-<img src="images/th14.png" style="height:340px;" draggable="false">
+<center><img src="images/th14.png" style="height:340px;" draggable="false"></center>
 
  Fig(1.7): Response of 30<sup>th</sup> mass 
  From all these plots we can clearly see that once the value of &#951; becomes greater than 2 attenuation in response of all these mass is observed.
