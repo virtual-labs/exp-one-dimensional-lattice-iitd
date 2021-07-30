@@ -56,34 +56,34 @@ keeping a fixed and observe the variation in &#956;. We observe that the value o
 an imaginary part. When we try to plot the real and imaginary part separately, we get the
 following curves
 
-<center><img src="images/th9.png" style="height:180px;" draggable="false"></center>
+<center><img src="images/th9.png" style="height:180px;" draggable="false">
 
-Fig (1.2): Variation of real part of &#956;, keeping a=1
+Fig (1.2): Variation of real part of &#956;, keeping a=1</center>
 
-<center><img src="images/th10.png" style="height:180px;" draggable="false"></center>
+<center><img src="images/th10.png" style="height:180px;" draggable="false">
 
-Fig (1.3): Variation of real part of &#956; keeping a=2
+Fig (1.3): Variation of real part of &#956; keeping a=2</center>
 
-<center><img src="images/th11.png" style="height:180px;" draggable="false"></center>
+<center><img src="images/th11.png" style="height:180px;" draggable="false">
 
-Fig (1.4): Variation of imaginary part of &#956; keeping a=1 
+Fig (1.4): Variation of imaginary part of &#956; keeping a=1 </center>
 
 From above plots we can see that if the frequency ratio &#951; is between -2 to 2, wave number will have real value, otherwise the value will be complex irrespective of 'a'.
 By this we can conclude that if &#951; is greater than 2, the wave will be attenuated i.e. waves with
 frequency greater than 2&#969;n will be attenuated. To confirm the above observation, we apply a harmonic force at first node of the lattice and plot
 the displacement of 10<sup>th</sup> , 20<sup>th</sup> and 30<sup>th</sup> mass.
 
-<center><img src="images/th12.png" style="height:340px;" draggable="false"></center>
+<center><img src="images/th12.png" style="height:340px;" draggable="false">
 
-Fig(1.5): Response of 10<sup>th</sup> mass
+Fig(1.5): Response of 10<sup>th</sup> mass</center>
 
-<center><img src="images/th13.png" style="height:340px;" draggable="false"></center>
+<center><img src="images/th13.png" style="height:340px;" draggable="false">
 
-Fig(1.6): Response of 20<sup>th</sup> mass
+Fig(1.6): Response of 20<sup>th</sup> mass</center>
 
-<center><img src="images/th14.png" style="height:340px;" draggable="false"></center>
+<center><img src="images/th14.png" style="height:340px;" draggable="false">
 
-Fig(1.7): Response of 30<sup>th</sup> mass
+Fig(1.7): Response of 30<sup>th</sup> mass</center>
  
 From all these plots we can clearly see that once the value of &#951; becomes greater than 2 attenuation in response of all these mass is observed.
 We can also observe that attenuation increases as value of &#951; increase. Also the distant masses observe more attenuation as compared to mass which is closer to the node where external harmonic force is applied.
