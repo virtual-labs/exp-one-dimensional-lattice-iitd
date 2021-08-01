@@ -23,23 +23,23 @@ We can write the equilibrium equation for the <i>n</i><sup>th</sup> unit as-
 
 <img src="images/th3.png" style="height:80px;" draggable="false">
 
-Where un is displacement of nth mass and un denotes the second order derivative of un with respect to time t.
+Where u<sub>n</sub> is displacement of n<sup>th</sup> mass and u<sub>n</sub> denotes the second order derivative of u<sub>n</sub> with respect to time t.
+
 Now According to Floquet-Bloch theorem we can assume the solution as-
 
 <img src="images/th4.png" style="height:52px;" draggable="false">
 
-Here xn is the position of nth mass, &#956; is wave number and &#969; is temporal frequency. From
+Here x<sub>n</sub> is the position of n<sup>th</sup> mass, &#956; is wave number and &#969; is temporal frequency. From
 equation (1.1) and (1.2)
 
 <img src="images/th5.png" style="height:60px;" draggable="false">
 
-Now since the distance between two mass is 'a' we have xn =an. Substituting this in above
+Now since the distance between two mass is 'a' we have x<sub>n</sub> =an. Substituting this in above
 equation we get-
 
 <img src="images/th6.png" style="height:160px;" draggable="false">
 
-Cancelling the common term Ae
-i(&#956;an-&#969;t)
+Cancelling the common term Ae<sup>i(&#956;an-&#969;t)</sup>
 
 <img src="images/th7.png" style="height:160px;" draggable="false">
 
@@ -54,7 +54,7 @@ i(&#956;an-&#969;t)
 Here a is distance between two consecutive mass and &#956; is the wave number, So we vary &#951;,
 keeping a fixed and observe the variation in &#956;. We observe that the value of &#956; contains a real and
 an imaginary part. When we try to plot the real and imaginary part separately, we get the
-following curves
+following curves-
 
 <center><img src="images/th9.png" style="height:180px;" draggable="false">
 
@@ -69,8 +69,11 @@ Fig (1.3): Variation of real part of &#956; keeping a=2</center>
 Fig (1.4): Variation of imaginary part of &#956; keeping a=1 </center>
 
 From above plots we can see that if the frequency ratio &#951; is between -2 to 2, wave number will have real value, otherwise the value will be complex irrespective of 'a'.
+
 By this we can conclude that if &#951; is greater than 2, the wave will be attenuated i.e. waves with
-frequency greater than 2&#969;n will be attenuated. To confirm the above observation, we apply a harmonic force at first node of the lattice and plot
+frequency greater than 2&#969;<sub>n</sub> will be attenuated.
+
+To confirm the above observation, we apply a harmonic force at first node of the lattice and plot
 the displacement of 10<sup>th</sup> , 20<sup>th</sup> and 30<sup>th</sup> mass.
 
 <center><img src="images/th12.png" style="height:340px;" draggable="false">
@@ -86,6 +89,7 @@ Fig(1.6): Response of 20<sup>th</sup> mass</center>
 Fig(1.7): Response of 30<sup>th</sup> mass</center>
  
 From all these plots we can clearly see that once the value of &#951; becomes greater than 2 attenuation in response of all these mass is observed.
+
 We can also observe that attenuation increases as value of &#951; increase. Also the distant masses observe more attenuation as compared to mass which is closer to the node where external harmonic force is applied.
 
 <!-- <img src="images/th5.png" draggable="false">
