@@ -90,22 +90,59 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. Natural frequency of unit cell", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "<img src='images/q3a.png' style='height: 40px' draggable='false'>", ///// Write the option 1 inside double quotes
+                b: "<img src='images/q3b.png' style='height: 60px' draggable='false'>", ///// Write the option 2 inside double quotes
+                c: "<img src='images/q3c.png' style='height: 40px' draggable='false'>", ///// Write the option 1 inside double quotes
+                d: "<img src='images/q3d.png' style='height: 37px' draggable='false'>", ///// Write the option 2 inside double quotes
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+        {
+            question: "2. As the number of unit cells (n) increases", ///// Write the question inside double quotes
+            answers: {
+                a: "The wave cannot propagate", ///// Write the option 1 inside double quotes
+                b: "The wave attenuation level decreases", ///// Write the option 2 inside double quotes
+                c: "The wave attenuation level increases", ///// Write the option 1 inside double quotes
+                d: "The wave propagation speed increases", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
+
+        // {
+        //     question: "3. How many mode the experiment was performed", ///// Write the question inside double quotes
+        //     answers: {
+        //         a: "mode 2 and mode 3", ///// Write the option 1 inside double quotes
+        //         b: "mode 1 and mode 3", ///// Write the option 2 inside double quotes
+        //         c: "mode 1 and mode 2", ///// Write the option 1 inside double quotes
+        //         d: "mode 4 and mode 5", ///// Write the option 2 inside double quotes
+        //     },
+        //     correctAnswer: "c" ///// Write the correct option inside double quotes
+        // },
+
+        // {
+        //     question: "4. By this experiment can we study the vibration of thin and thick circular plate?", ///// Write the question inside double quotes
+        //     answers: {
+        //         a: "Yes", ///// Write the option 1 inside double quotes
+        //         b: "No", ///// Write the option 2 inside double quotes
+        //         c: "can't say", ///// Write the option 1 inside double quotes
+        //         d: "may be", ///// Write the option 2 inside double quotes
+        //     },
+        //     correctAnswer: "b" ///// Write the correct option inside double quotes
+        // },
+
+        // {
+        //     question: "5. Is there any change of node takes place in this experiment takes place?", ///// Write the question inside double quotes
+        //     answers: {
+        //         a: "Yes", ///// Write the option 1 inside double quotes
+        //         b: "No", ///// Write the option 2 inside double quotes
+        //         c: "can't say", ///// Write the option 1 inside double quotes
+        //         d: "None of the above.", ///// Write the option 2 inside double quotes
+        //     },
+        //     correctAnswer: "b" ///// Write the correct option inside double quotes
+        // },
 
 
         

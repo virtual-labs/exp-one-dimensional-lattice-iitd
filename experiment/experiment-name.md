@@ -1,1 +1,1 @@
-## Experiment name
+## Waves in one dimensional lattice
